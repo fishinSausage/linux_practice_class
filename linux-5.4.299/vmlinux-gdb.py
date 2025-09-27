@@ -1,0 +1,1 @@
+/home/donggyu/practice_course/linux-5.4.299/scripts/gdb/vmlinux-gdb.py
